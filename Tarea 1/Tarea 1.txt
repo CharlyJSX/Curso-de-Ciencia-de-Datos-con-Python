@@ -1,0 +1,41 @@
+Evaluación Practica 1 - Programa de Python para Gestionar CE
+Manuel Calderón
+•
+31 jul.
+20 puntos
+Fecha de entrega: 18 ago.
+Generar un programa en Python que permita gestionar centros escolares a una base de datos en Atlas, los campos que debe de llevar la base de datos son los siguientes:
+
+
+Base de datos: 
+Evaluacion01
+
+
+Colección: 
+CE
+
+
+Campos:
+-  _id:  Código del centro escolar (NUMERICO)
+- Nombre: Nombre de identificación del CE (TEXTO)
+- Departamento (TEXTO)
+- Municipio (TEXTO)
+
+
+El programa debe permitirle ingresar, ver los centros escolares, actualizar y eliminar por medio del _id 
+Esto con una vista de consola. 
+
+
+Fases de la Tarea. 
+1- 20% Conexión con Atlas 
+2- 20% Insertar un CE 
+3- 20% Visualizar base de datos de CE
+4- 20% Actualizar un CE
+5- 20% Eliminar un CE
+
+
+Este Google Form será para la entrega de el o los archivo de Python. Se debe seguir el orden de las Fases. 
+
+
+Ejemplos claves. Ejemplo 6 de Pymongo 
+https://drive.google.com/file/d/1N0W0Ol_5IW2d1ZFqLWHGUMEI1XKOARcP/view?usp=sharing
