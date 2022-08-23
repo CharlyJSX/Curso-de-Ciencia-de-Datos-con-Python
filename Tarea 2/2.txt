@@ -1,0 +1,2 @@
+Países	Hombres	Mujeres	Total general
+Fallecidos	255,940,462	218,537,465	474,477,927
