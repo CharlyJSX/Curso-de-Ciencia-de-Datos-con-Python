@@ -1,0 +1,29 @@
+Info
+
+- MongoDB
+
+https://www.youtube.com/watch?v=DM4gD6Z5zFU
+
+- Numpy
+
+https://www.youtube.com/watch?v=WxJr143Os-A
+
+- Pandas
+
+https://www.youtube.com/watch?v=gimfTyCNfGw
+
+- Scipy
+
+https://www.youtube.com/watch?v=rCD1E4KYOIo
+
+- Matplotlib
+
+https://www.youtube.com/watch?v=2VeHtuqW3YY
+
+- Tableau
+
+https://www.youtube.com/watch?v=GBSdCGMpU1Q
+
+- Película recomendada por Manuel Calderón: Moneyball
+
+https://peliculaspro.net/pelicula/moneyball
