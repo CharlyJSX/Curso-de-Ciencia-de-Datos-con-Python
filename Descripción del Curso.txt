@@ -1,0 +1,15 @@
+NOMBRE DEL CURSO:  
+Ciencia de Datos
+
+INSTRUCTOR:  
+José Manuel Calderón
+
+DURACION: 
+36 Horas, divididas en 18 sesiones cada una de 2 horas, 
+Los días martes y jueves de 6:00 PM a 8:00 PM
+
+DESCRIPCIÓN DEL CURSO:
+Curso en línea en el que se estudian los conceptos generales de la ciencia de datos utilizando el lenguaje de programación Python. Será capaz de recolectar contenido en la web, limpiar los datos y prepararlos para su visualización y gestión.
+
+OBJETIVO GENERAL DE LA CAPACITACIÓN:
+Conocer y comprender la ciencia de datos utilizando el lenguaje de programación Python
